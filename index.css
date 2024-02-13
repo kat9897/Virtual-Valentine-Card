@@ -73,9 +73,9 @@ body {
     left: 10%;
     width: 80%;
     height: 14%;
-    font-size: 15px;
+    font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
-    color: black;
+    color: rgb(195, 49, 49);
 }
 
 .line1 {
